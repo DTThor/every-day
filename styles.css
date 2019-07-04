@@ -1,0 +1,18 @@
+html {
+    font-family: Oswald, sans-serif;
+}
+
+header {
+  background-color: black;
+  color: white;
+  padding: 10px 0px;
+}
+
+#top {
+  text-align: center;
+}
+
+main {
+  padding-left: 20%;
+  padding-right: 20%;
+}
