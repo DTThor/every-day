@@ -17,3 +17,12 @@ main {
   padding-left: 20%;
   padding-right: 20%;
 }
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: slategray;
+}
